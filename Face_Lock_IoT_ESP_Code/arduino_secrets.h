@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "PTc0Qvjc2CgXmzaaG8WCjONbM"   //   1slY35vKE4ljD3RUPDQU2U?E#
+#define SECRET_OPTIONAL_PASS "qnh1013hg"
+#define SECRET_SSID "Rafi"
